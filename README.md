@@ -1,3 +1,8 @@
 # Ops-201-d10-code-challenges
-Where all my coding challenges are housed.
-This was added with VSCode
+This repo is all about my knowledge in coding with various coding languages ranging from bash, to batch, and to powershell. I want to learn all these skills because I really enjoy the problem solving aspect and the way it makes me think on how I can make something more efficient or provide more quality to it.
+
+I have learned several fundamental concepts in Ops 201 such as variables, conditionals, the different loops, arrays, and how all of this can be applied to all scripting or coding languages involved in the information technology world. One of my favorite scripting challenges was Ops Challenge 13. Mainly because I was able to make a pretty efficient script that only contains fifteen lines and was able to do exactly what I want it too while also sticking with the conditions that the challenge had set.
+
+The example of these codes can be beneficial to the workplace by setting up scripts to automate a lot of tasks in your workflow allowing for a much more efficient workflow in the long run and they can always be improved upon to make it even more efficient to make your life a lot easier. If I could improve a script if I had the time, it would be Ops Challenge 6, mainly because I want to try and make it so that it can scan the entire file to get the names of what exists, put it in an array everytime it is ran, and then have it take user input to allow someone to make a folder or a file, however, I couldn't do that within the time period because it would be introducing something I am not familiar with, which is dealing with an empty array and feeding the array with information from the current folder.
+
+Aspects of my shell scripting I would like to improve upon is making things more complex and more efficient while also understanding it and being able to add upon it whenever I would like. I would like to know more different ways to script so that way I can apply pieces of what I have learned into practice to allow me to make scripts a lot easier.
